@@ -1,4 +1,8 @@
+[travis]: https://travis-ci.org/dry-cr/dry-result_matcher
+
 # dry-result_matcher
+
+[![Build Status](https://travis-ci.org/dry-cr/dry-result_matcher.svg?branch=master)](travis)
 
 An expressive, all-in-one API for operating on [dry-monads](https://github.com/dry-cr/dry-monads) Either results.
 
@@ -7,6 +11,14 @@ This is a port of the Ruby gem **dry-result_matcher** by [dry-rb](http://dry-rb.
 For usage examples read the Ruby **dry-result_matcher** [documentation](http://dry-rb.org/gems/dry-result_matcher/).
 
 **CAUTION:** This project in still under active development. Use at your own risk.
+
+### TODOs
+
+- [x] init Crystal lib dry-result_matcher
+- [x] port dry-rb Matcher ruby code
+- [ ] port dry-rb ResultMatcher ruby code
+- [ ] integration specs for ResultMatcher
+- [ ] fix remaining TODOs
 
 ## Installation
 
