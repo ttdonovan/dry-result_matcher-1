@@ -1,4 +1,3 @@
-require "dry-monads.cr/dry/monads/either"
 require "../spec_helper"
 
 Spec2.describe Dry::ResultMatcher::Matcher do

@@ -16,7 +16,8 @@ For usage examples read the Ruby **dry-result_matcher** [documentation](http://d
 
 - [x] init Crystal lib dry-result_matcher
 - [x] port dry-rb Matcher ruby code
-- [ ] port dry-rb ResultMatcher ruby code
+- [x] port dry-rb ResultMatcher#match ruby code
+- [ ] port dry-rb ResultMatcher#for ruby code
 - [ ] integration specs for ResultMatcher
 - [ ] fix remaining TODOs
 
